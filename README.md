@@ -1,6 +1,6 @@
 # Coding Environment Template
 
-A coding environment for agent evaluations. Provides bash and file editing tools.
+A coding environment for agent evaluations. Provides bash and file editing tools. o.o
 
 > **⚠️ This is a template.** Before building, customize `Dockerfile.hud` for your project.
 
